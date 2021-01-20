@@ -2,7 +2,7 @@
 A Mozilla Firefox browser extension. Hides point and karma scores on reddit.
 
 # Installation
-At present, the primary means of installing it are:
+At present, the primary method of installing the Akarma browser extension is:
 * Download the Akarma repository
 * Enter "about:debugging" into the Firefox address bar
 * Click on "This Firefox"
